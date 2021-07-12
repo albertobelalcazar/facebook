@@ -13,5 +13,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_CARELIBRO_2292E }}'
-          projectId: carelibro-2292e
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FDEMO_6100A }}'
+          projectId: fdemo-6100a
